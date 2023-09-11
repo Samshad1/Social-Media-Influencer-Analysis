@@ -9,7 +9,7 @@ Influencer marketing is a relationship between a brand and an influencer, the in
 -  Visualization: _Microsoft Excel & PowerPoint_
 -  Reporting: _PowerPoint_
 
-**Disclaimer:** This project was a **_replication project_** originally carried out DataLeum
+**Disclaimer:** This project was a **_replication project_** originally carried out by DataLeum
 
 ## Problem Statement 
 1. Classify all influencers and rank them by follower count
